@@ -1,12 +1,9 @@
-# langchain
-# langchain_core
-# langchain_community 
-# langchain_openai
-# langchain_HuggingFace
-# faiss-cpu
-# ipykernel
-# python-dotenv
-# langchain_groq
-# streamlit
 
-%pip install llama-index-llms-openai llama-index-experimental
+
+streamlit
+pandas
+llama-index
+llama-index-experimental
+llama-index-llms-openai
+python-dotenv
+openai
